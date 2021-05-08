@@ -45,7 +45,7 @@
       "source-map-support": "^0.5.16",
       "supertest": "^4.0.2",
       "ts-node-dev": "^1.0.0-pre.44",
-      "typeorm": "^0.2.24",
+      "typeorm": "^0.2.25",
       "typescript": "^3.8.3",
       "validator": "^13.0.0",
       "winston": "^3.2.1"
