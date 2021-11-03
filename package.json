@@ -47,7 +47,7 @@
       "ts-node-dev": "^1.0.0-pre.44",
       "typeorm": "^0.2.24",
       "typescript": "^3.8.3",
-      "validator": "^13.0.0",
+      "validator": "^13.7.0",
       "winston": "^3.2.1"
    },
    "devDependencies": {
